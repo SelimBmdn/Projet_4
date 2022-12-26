@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757;
+    color: black;
 }
 
 .container {
@@ -724,7 +724,8 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+   /*  color: white!important;*/
+   color: black!important;
 }
 
 h4 {
@@ -737,7 +738,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -776,7 +777,9 @@ h4 {
 }
 
 .tc-white {
-    color: white!important;
+    color: black;
+    background-color: #f3976C;
+    border-radius: 5px;
 }
 
 .btn-atomic-tangerine {
@@ -790,7 +793,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {
